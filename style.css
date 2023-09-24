@@ -23,14 +23,14 @@
 }
 
 .desktop .text-wrapper {
-  position: absolute;
   width: 330px;
   top: 307px;
+  font-size: 73px;
+  position: absolute;
   left: 135px;
   font-family: "Readex Pro", Helvetica;
   font-weight: 400;
   color: #000000;
-  font-size: 73px;
   letter-spacing: 0;
   line-height: normal;
 }
@@ -44,6 +44,33 @@
   font-weight: 400;
   color: #000000;
   font-size: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  width: 437px;
+  top: 534px;
+  font-size: 42px;
+  white-space: nowrap;
+  position: absolute;
+  left: 135px;
+  font-family: "Readex Pro", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 780px;
+  top: 713px;
+  left: 135px;
+  font-family: "Readex Pro", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
   letter-spacing: 0;
   line-height: normal;
 }
