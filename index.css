@@ -4,7 +4,7 @@
 /* Only edit this if you know what you are doing! */
 @font-face {
 	font-family:'Readex Pro';
-	src: url(font/chunlian.ttf);
+	src: url(font/ReadexPro-Regular.ttf);
 }
 body { margin: 0px; padding: 0px; font-family:"Readex Pro"; overflow-x:hidden;}
 
