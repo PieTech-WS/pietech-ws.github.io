@@ -8,7 +8,7 @@ body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
 img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
 
 /* Only edit this if you know what you are doing! */
-div { position: absolute; }
+div { position: absolute; background-color:rgba(200, 229, 224, 1);}
 
 #content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1839px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
 
