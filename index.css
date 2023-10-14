@@ -2,13 +2,13 @@
 	@name desktop___1
 */
 /* Only edit this if you know what you are doing! */
-body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+body { margin: 0px; padding: 0px; font-family:"Readex Pro"; overflow-x:hidden; background-color:rgba(200, 229, 224, 1);}
 
 /* Only edit this if you know what you are doing! */
 img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
 
 /* Only edit this if you know what you are doing! */
-div { position: absolute; background-color:rgba(200, 229, 224, 1);}
+div { position: absolute; }
 
 #content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1839px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
 
