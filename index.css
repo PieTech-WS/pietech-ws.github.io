@@ -2,6 +2,10 @@
 	@name desktop___1
 */
 /* Only edit this if you know what you are doing! */
+@font-face {
+	font-family:'Readex Pro';
+	src: url(font/chunlian.ttf);
+}
 body { margin: 0px; padding: 0px; font-family:"Readex Pro"; overflow-x:hidden;}
 
 /* Only edit this if you know what you are doing! */
@@ -12,10 +16,6 @@ div { position: absolute; }
 
 #content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1839px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
 
-@font-face {
-	font-family:'Readex Pro';
-	src: url(font/chunlian.ttf);
-}
 
 #page_desktop___1_ek1 {
 	top: 0px;
