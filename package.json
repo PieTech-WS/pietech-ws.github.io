@@ -1,0 +1,15 @@
+{
+  "name": "poweratom-homepage",
+  "version": "1.0.0",
+  "description": "The offical website of PowerAtom Foundation",
+  "main": "index.html",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "author": "2minRain@CoraTechWS.APA.",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
