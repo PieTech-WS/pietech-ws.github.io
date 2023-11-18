@@ -1,0 +1,123 @@
+@font-face {
+	font-family:'Readex Pro';
+	src: url(../font/ReadexPro-Regular.ttf);
+}
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
+a:visited {color:#000000;}
+a:hover {color:#000000;}
+a:active {color:#000000;}
+
+body {
+    background-color: #fafafa;
+	padding: 1em;
+	font-family: "Readex Pro", ui-sans-serif;
+}
+
+#tit {
+	float: left;
+	font-size: 20px;
+}
+
+fluent-card {
+	width: 600px;
+	height: 300px;
+	padding: 12px;
+}
+
+#tabs {
+	float: right;
+}
+
+#head_card {
+	width: auto;
+	height: auto;
+
+}
+
+fluent-horizontal-scroll {
+	max-width: max-content;
+}
+
+#icon_1 {
+	padding-top: 30px;
+	top: 200px;
+	left: 135px;
+	width: 126px;
+	height: 124px;
+}
+
+#welcm {
+	top: 308px;
+	left: 135px;
+	width: 379px;
+	height: 131px;
+	overflow: hidden;
+	font-family: Readex Pro, ui-sans-serif;
+	font-size: 73px;
+	text-align: left;
+	color:#000000;
+}
+
+#paf_name {
+	top: 417px;
+	left: 135px;
+	width: auto;
+	height: 131px;
+	overflow: hidden;
+	font-family: Readex Pro, ui-sans-serif;
+	font-size: 73px;
+	text-align: left;
+	color:#000000;
+}
+
+#oww {
+	width: 350px;
+	height: 50px;
+	top: initial;
+	overflow: hidden;
+	font-family: Readex Pro, ui-sans-serif;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+#oww_by {
+	width: 150px;
+	height: 30px;
+	top: initial;
+	overflow: hidden;
+	font-family: Readex Pro, ui-sans-serif;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#oww_button {
+	opacity:0.97000002861023;
+	top: 20%;
+	right: 10%;
+	width: 120px;
+	height: 50px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	font-size: 18px;
+	float: right;
+}
+.wrapper {
+	padding-top: 20px;
+	display: inline-flex;
+	align-items: center;
+	gap: 13px;
+}
+.left {
+	display: inline-block;
+	vertical-align: top;
+}
+.right {
+	display: inline-block;
+	vertical-align: top;
+}
