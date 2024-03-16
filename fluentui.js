@@ -1,3 +1,4 @@
+// Microsoft
 const t = function () {
     if ("undefined" != typeof globalThis) return globalThis;
     if ("undefined" != typeof global) return global;
